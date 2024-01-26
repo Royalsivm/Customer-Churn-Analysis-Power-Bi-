@@ -29,3 +29,6 @@ The customers who churned tend to have higher monthly charges, lower tenure, mon
 The customers who stayed tend to have lower monthly charges, higher tenure, longer-term contracts, DSL internet service, and online security and tech support.
 The customer satisfaction score is negatively correlated with churn, meaning that the more satisfied the customers are, the less likely they are to churn.
 The churn rate varies by state, with New Jersey, California, and Texas having the highest churn rates, and Hawaii, Alaska, and Arizona having the lowest churn rates.
+# Dashboard
+"C:\Users\sstag\OneDrive\Pictures\Screenshots\Screenshot 2024-01-25 153822.png"
+https://1drv.ms/i/s!Aj8cc69cJv1ghAk-CIxCZHBYgjUw?e=mSjuX0
