@@ -27,8 +27,7 @@ Some of the key insights derived from the data analysis and visualization are:
 The churn rate of the telecom company is 26.54%, which is quite high and indicates a need for improvement in customer retention strategies.
 The customers who churned tend to have higher monthly charges, lower tenure, month-to-month contracts, fiber optic internet service, and no online security or tech support.
 The customers who stayed tend to have lower monthly charges, higher tenure, longer-term contracts, DSL internet service, and online security and tech support.
-The customer satisfaction score is negatively correlated with churn, meaning that the more satisfied the customers are, the less likely they are to churn.
-The churn rate varies by state, with New Jersey, California, and Texas having the highest churn rates, and Hawaii, Alaska, and Arizona having the lowest churn rates.
+The customer satisfaction score is negatively correlated with churn, meaning that the more satisfied the customers are, the less likely they are to churn. 
 # Dashboard
  ![Screenshot 2024-01-25 153822](https://github.com/Royalsivm/Customer-Churn-Analysis-Power-Bi-/assets/153700930/21b0ba41-c554-41b0-aa15-3bd6f361d178)
  ![Screenshot 2024-01-25 153846](https://github.com/Royalsivm/Customer-Churn-Analysis-Power-Bi-/assets/153700930/1f7e1d22-78e5-4116-b545-31e13a24a880)
